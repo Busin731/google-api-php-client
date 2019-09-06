@@ -34,7 +34,7 @@
 
  <!-- All PHP files MUST end with a single blank line. -->
  <rule ref="PSR2.Files.EndFileNewline" />
-
+//asdfgaewrgaewrgliahwlerfguioanwevipouawbnpvoiwug
  <!-- The closing ?> tag MUST be omitted from files containing only PHP. -->
  <rule ref="Zend.Files.ClosingTag"/>
 
